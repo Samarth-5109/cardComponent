@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&family=Shippori+Antique&display=swap');
+*{
+  margin:0;
+}
+
+.container{
+    display: flex;
+}
+.card-1{
+  display: flex;
+  height:30%;
+  width:30%;
+  flex-direction:column;
+  margin: 2rem;
+  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+  /* box-shadow: -5px 5px 5px rgba(204, 193, 193, 0.1); */
+}
+.card-image{
+  margin-bottom:5px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.card-body .title {
+  padding-bottom:20px;
+}
+
+.card-footer{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1rem;
+}
+
+.footer-btn{
+ background-color: transparent;
+ border: 0 solid transparent;
+ color:  rgb(98 0 238);
+ font-weight: bold;
+ padding: 10px;
+}
+
+.card-footer i{
+  padding: 10px;
+}
+
+.footer-btn:hover{
+  background-color: #EEEEEE;
+}
+
+.far:hover, .fas:hover{
+  background-color: #EEEEEE;
+  border-radius: 50%;
+}
+
