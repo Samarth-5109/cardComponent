@@ -1,0 +1,12 @@
+.far-4,.fas-4{
+    display: none;
+    
+}
+
+.card-footer-4{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 1rem;
+  }
+  
+  

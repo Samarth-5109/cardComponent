@@ -9,9 +9,11 @@
   position: relative;
 }
 
- .title{
+ .title-card-2{
     position: absolute;
     top: 14rem;
     left: 1rem;
-
+    bottom: 1rem;
+    color: antiquewhite;
 }
+

@@ -1,0 +1,17 @@
+.card-footer-5{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 1rem;
+  }
+  
+  
+  
+
+.footer-btn-5{
+    display: none;
+   
+}
+
+.icon-5{
+    padding:  0.8rem;
+}
